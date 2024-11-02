@@ -1,2 +1,3 @@
 # Raiwork
-That's a Javascript extension
+## That's a Javascript game framework
+## [Website](https://raikou320.github.io/Raiwork/)
